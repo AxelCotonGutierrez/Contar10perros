@@ -3,7 +3,7 @@
   const images = [
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contar10perros/master/img/01dog.png",
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contar10perros/master/img/02dog.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contar10perrosmaster/img/03dog.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contar10perros/master/img/03dog.png",
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contar10perros/master/img/04dog.png",
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contar10perros/master/img/05dog.png",
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contar10perros/master/img/06dog.png",
