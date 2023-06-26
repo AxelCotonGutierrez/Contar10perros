@@ -1,6 +1,6 @@
 # Contar hasta 10 perros.
 
-![Juego de los dedos](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/Contar5/jcontar5de.jpg)
+![Juego de los dedos](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/Contar10/contar10perros.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
